@@ -1,0 +1,7 @@
+dist = Math.sqrt(Math.pow((x2-x1),2)+Math.pow((y2-y1),2));
+
+兩點距離公式
+
+Math.sqrt() : 傳回平方根、型別double
+
+Math.pow(double a, double b) : 傳回平方(a是底數base,b是指數index)、型別double
