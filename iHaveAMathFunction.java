@@ -6,7 +6,7 @@ public class iHaveAMathFunction {
 	System.out.printfln("f(-2.1)=%.4f",f(-2.1));
 	System.out.printfln("f(0)=%.4f",f(0));
 	System.out.printfln("f(2.1)=%.4f",f(2.1));
-¡@¡@}
+    }
 
     public static double f(double x){
 	return 3*Math.pow(x,3)+2*x-1;
