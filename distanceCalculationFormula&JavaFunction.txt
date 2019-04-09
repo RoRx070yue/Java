@@ -1,7 +1,5 @@
 dist = Math.sqrt(Math.pow((x2-x1),2)+Math.pow((y2-y1),2));
+å…©é»è·é›¢å…¬å¼
 
-¨âÂI¶ZÂ÷¤½¦¡
-
-Math.sqrt() : ¶Ç¦^¥­¤è®Ú¡B«¬§Odouble
-
-Math.pow(double a, double b) : ¶Ç¦^¥­¤è(a¬O©³¼Æbase,b¬O«ü¼Æindex)¡B«¬§Odouble
+- Math.sqrt() : å‚³å›å¹³æ–¹æ ¹ã€å‹åˆ¥double
+- Math.pow(double a, double b) : å‚³å›å¹³æ–¹(aæ˜¯åº•æ•¸base,bæ˜¯æŒ‡æ•¸index)ã€å‹åˆ¥double
